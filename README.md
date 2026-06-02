@@ -29,7 +29,7 @@ This project keeps analysis separate from execution. It does **not** place order
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/kr-equity-perp-gap-monitor.git
+git clone https://github.com/KRMarketLab/kr-equity-perp-gap-monitor.git
 cd kr-equity-perp-gap-monitor
 python -m pip install -e ".[dev]"
 ```
