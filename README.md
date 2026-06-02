@@ -70,7 +70,7 @@ This repository is for research and educational tooling only. It does not includ
 
 ## Maintainer use of Codex
 
-Codex can help maintain this project by reviewing data-normalization logic, generating regression tests, improving exchange adapters, drafting release notes, and checking security issues in local CLI workflows.
+Future work includes improving exchange adapters, adding more sample fixtures, expanding test coverage, and documenting edge cases in candle alignment.
 
 ## License
 
