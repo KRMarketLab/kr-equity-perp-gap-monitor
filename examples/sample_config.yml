@@ -1,0 +1,15 @@
+reference:
+  name: "SK Hynix reference sample"
+  timezone: "Asia/Seoul"
+
+markets:
+  - venue: "hyperliquid"
+    symbol: "EXAMPLE"
+    interval: "1h"
+  - venue: "binance"
+    symbol: "EXAMPLEUSDT"
+    interval: "1h"
+
+analysis:
+  output: "gap_output.csv"
+  base_mode: "first_aligned_close"
