@@ -75,3 +75,5 @@ Future work includes improving exchange adapters, adding more sample fixtures, e
 ## License
 
 MIT
+
+- [KR Market Data Sandbox](https://github.com/KRMarketLab/kr-market-data-sandbox): beginner-friendly examples for collecting, cleaning, and analyzing public market data.
